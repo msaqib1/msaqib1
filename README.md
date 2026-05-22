@@ -6,8 +6,6 @@ Most of my work is hands-on with Claude Code, OpenAI APIs, and AI tooling to tur
 
 Currently building an Arabic recitation coach focused on helping students correctly pronounce harakat (Arabic accent marks) through AI-powered speech evaluation and pronunciation feedback.
 
-I’m also a seminary student studying traditional Islamic sciences, which heavily influences the kinds of products I want to build.
-
 ---
 
 ## What I'm Working On -> [link to product](https://arabic-recitation-coach.vercel.app/welcome)
