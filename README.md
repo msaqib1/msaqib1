@@ -10,7 +10,7 @@ I’m also a seminary student studying traditional Islamic sciences, which heavi
 
 ---
 
-## What I'm Working On
+## What I'm Working On -> [link to product](https://arabic-recitation-coach.vercel.app/welcome)
 
 - Arabic recitation + pronunciation tools  
 - AI-powered learning products  
